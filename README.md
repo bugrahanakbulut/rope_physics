@@ -23,10 +23,7 @@ This project is in an **early development phase**. The following features are fu
 ### Planned Improvements
 - **3D Visualization**: Adding visual representations for the rope (line renderer, procedural mesh, etc.).
 - **Physics Updates**: The current physics implementation for the rope works but needs refined constraints, collision handling, and stability improvements.
-- **Cloth Simulation Mechanics**: 
-- Enhance the existing rope physics system to support cloth simulation mechanics.
-- Add physics for two-dimensional surfaces (like flags, curtains, or clothing), with proper collision detection, wind response, and realistic cloth tearing behavior.
-
+- **Cloth Simulation Mechanics**: Enhance the existing rope physics system to support cloth simulation mechanics. Add physics for two-dimensional surfaces (like flags, curtains, or clothing), with proper collision detection, wind response, and realistic cloth tearing behavior.
 ---
 
 ## Contribution
