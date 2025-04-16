@@ -33,6 +33,6 @@ For feedback, suggestions, or inquiries, feel free to reach out to me.
 
 ---
 
-## License
+## References
+[1] Müller, Matthias, et al. "Position based dynamics." Journal of Visual Communication and Image Representation 18.2 (2007): 109-118.
 
-This project is licensed under the [MIT License](LICENSE).
