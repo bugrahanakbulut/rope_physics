@@ -3,7 +3,10 @@
 This project demonstrates a few foundational mechanics for a Unity-based system, including:
 - A custom rope physics system that simulates basic rope behavior and constraints.
 - Simulates a dynamic rope using Verlet integration and constraint relaxation. Each rope particle is affected by physics, but the system could benefit from further tuning and optimizations.
-![Alt Text](https://github.com/bugrahanakbulut/rope_physics/blob/main/Resources/rope_movement.gif)
+
+<p align="center">
+    <img src="https://github.com/bugrahanakbulut/rope_physics/blob/main/Resources/rope_movement.gif" alt="animated" />
+</p>
 
 ---
 
